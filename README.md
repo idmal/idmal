@@ -1,4 +1,4 @@
-# Hi, I'm Milad Cheraghi 👋
+# Hi, I'm Milad 👋
 
 ## 🛠️ About Me
 - 🎓 Petroleum Engineer
