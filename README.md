@@ -6,11 +6,11 @@ I’m a software builder with a background in petroleum engineering. I enjoy bui
 
 ## What I Do
 
-- 🌐 Develop websites with WordPress and PHP
-- 🤖 Build and automate Telegram bots
-- 🐧 Use and customize Debian Linux
-- 🧩 Create and contribute to GNOME Shell extensions
-- ⚙️ Work with modern development tools and open-source projects
+- Develop websites with WordPress and PHP
+- Build and automate Telegram bots
+- Use and customize Debian Linux
+- Create and contribute to GNOME Shell extensions
+- Work with modern development tools and open-source projects
 
 ## Technologies & Tools
 
