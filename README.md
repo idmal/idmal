@@ -1,6 +1,6 @@
 # Hi, I'm Milad Cheraghi 👋
 
-## 👨‍💻 About Me
+## 🛠️ About Me
 - 🎓 Petroleum Engineer
 - 🌐 WordPress Developer
 - 🤖 Telegram Bot Enthusiast
