@@ -1,10 +1,10 @@
-# Hi, I'm Milad 👋
+# Hi, I'm Milad
 
 ### Petroleum Engineer • WordPress Developer • Telegram Bot Enthusiast
 
 I’m a software builder with a background in petroleum engineering. I enjoy building web projects, automating tasks with Telegram bots, and exploring the Linux ecosystem.
 
-## 🛠️ What I Do
+## What I Do
 
 - 🌐 Develop websites with WordPress and PHP
 - 🤖 Build and automate Telegram bots
@@ -12,7 +12,7 @@ I’m a software builder with a background in petroleum engineering. I enjoy bui
 - 🧩 Create and contribute to GNOME Shell extensions
 - ⚙️ Work with modern development tools and open-source projects
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 ### Web Development
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -31,7 +31,7 @@ I’m a software builder with a background in petroleum engineering. I enjoy bui
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📦 Open Source Contributions
+## Open Source Contributions
 
 - [**USDT-Toman**](https://github.com/Elyar0/USDT-Toman/pull/1)  
   Fixed an arrow character display issue in the GNOME Shell extension.
@@ -39,7 +39,7 @@ I’m a software builder with a background in petroleum engineering. I enjoy bui
 - [**USD-Toman**](https://github.com/Elyar0/USD-Toman/pull/...)  
   Applied the same fix to the USD conversion extension.
 
-## 💻 Development Environment
+## Development Environment
 
 | Category | Setup |
 |---|---|
@@ -48,7 +48,7 @@ I’m a software builder with a background in petroleum engineering. I enjoy bui
 | Code Editor | VS Code / Nano |
 | Version Control | Git & GitHub |
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: [@idmal](https://github.com/idmal)
 - Telegram: [@idmal](https://t.me/idmal)
