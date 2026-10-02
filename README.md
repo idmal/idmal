@@ -24,5 +24,5 @@
 
 ## 📫 Contact
 - GitHub: [@idmal](https://github.com/idmal)
-- Telegram ID: @idmal
+- Telegram ID: [@idmal](https://t.me/idmal)
 - Email: idmal@users.noreply.github.com
