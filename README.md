@@ -1,8 +1,8 @@
 # Hi, I'm Milad
 
-### • Petroleum Engineer • WordPress Developer • Telegram Bot Enthusiast
+### • WordPress Developer • Telegram Bot Enthusiast
 
-I’m a software builder with a background in petroleum engineering. I enjoy building web projects, automating tasks with Telegram bots, and exploring the Linux ecosystem.
+I’m a software builder. I enjoy building web projects, automating tasks with Telegram bots, and exploring the Linux ecosystem.
 
 ## What I Do
 
